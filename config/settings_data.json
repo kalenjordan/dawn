@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": "Default",
   "presets": {
@@ -181,6 +190,17 @@
           "type": "main-password-footer",
           "settings": {
             "color_scheme": "scheme-1"
+          }
+        }
+      },
+      "blocks": {
+        "wholesale_gorilla": {
+          "type": "shopify://apps/wholesale-gorilla/blocks/wsg-header/c48d0487-dff9-41a4-94c8-ec6173fe8b8d",
+          "disabled": false,
+          "settings": {
+            "embed_bg_color": "#000000",
+            "embed_text_color": "#000000",
+            "embed_SPOF_label": ""
           }
         }
       }
